@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "name": "thu huyen3",
+      "username": "thuhuyen125",
+      "email": "thuhuyen1@gmail.com",
+      "phone": "52345678399",
+      "id": 2
+    },
+    {
+      "name": "duc anh",
+      "username": "ducanhanh123",
+      "email": "ducanhanh@gmail.com",
+      "phone": "323456789",
+      "id": 3
+    },
+    {
+      "name": "viet anh",
+      "username": "vietanh123",
+      "email": "vietanh@gmail.com",
+      "phone": "423456789",
+      "id": 4
+    },
+    {
+      "name": "thu huyen5",
+      "username": "thuhuyen125",
+      "email": "thuhuyen1@gmail.com",
+      "phone": "5234567839",
+      "id": 5
+    },
+    {
+      "name": "thu huyen",
+      "username": "thuhuyen123",
+      "email": "thuhuyen@gmail.com",
+      "phone": "523456789",
+      "id": 6
+    },
+    {
+      "name": "thu huyen5",
+      "username": "thuhuyen125",
+      "email": "thuhuyen1@gmail.com",
+      "phone": "52345678399",
+      "id": 7
+    }
+  ]
+}
